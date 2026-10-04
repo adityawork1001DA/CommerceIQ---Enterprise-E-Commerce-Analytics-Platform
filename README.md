@@ -1,7 +1,7 @@
-# CommerceIQ — Enterprise E-Commerce Intelligence Platform
+# CommerceIQ — Enterprise E-Commerce Analytics Platform
 
 <p>
-  <b>End-to-End Business Intelligence Platform built using Python, SQL, Streamlit, SQLite & Power BI</b>
+  <b>End-to-End E-Commerce Analytics Platform built using Python, SQL, Streamlit, SQLite & Power BI</b>
 </p>
 
 <p>
@@ -14,7 +14,7 @@
 
 **CommerceIQ** is a production-style **Enterprise E-Commerce Analytics Platform** that transforms raw transactional data into actionable business intelligence.
 
-It combines **Data Engineering, SQL Analytics, Business Intelligence, Customer Segmentation, AI-driven Insights, and Interactive Dashboards** into one centralized analytics application — similar to internal analytics tools used by companies like Amazon, Flipkart, Swiggy, Blinkit, Myntra, Meesho and Walmart.
+It combines **Data Engineering, SQL Analytics, Business Intelligence, Customer Segmentation, AI-driven Insights and Interactive Dashboards** into one centralized analytics application — similar to internal analytics tools used by companies like Amazon, Flipkart, Swiggy, Blinkit, Myntra, Meesho and Walmart.
 
 The platform is designed to help business teams monitor sales, identify customer behavior, optimize product performance, and manage operational datasets through a secure admin portal.
 
