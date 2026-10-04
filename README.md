@@ -16,8 +16,7 @@
 
 It combines **Data Engineering, SQL Analytics, Business Intelligence, Customer Segmentation, AI-driven Insights and Interactive Dashboards** into one centralized analytics application — similar to internal analytics tools used by companies like Amazon, Flipkart, Swiggy, Blinkit, Myntra, Meesho and Walmart.
 
-The platform is designed to help business teams monitor sales, identify customer behavior, optimize product performance, and manage operational datasets through a secure admin portal.
-
+The platform is designed to help business teams monitor sales, identify customer behavior, optimize product performance, and manage operational datasets.
 ---
 
 # Business Problems Solved
