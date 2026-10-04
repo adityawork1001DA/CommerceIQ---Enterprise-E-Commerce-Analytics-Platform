@@ -813,28 +813,13 @@ Business Intelligence
 Strategic Recommendations
 ```
 
-### Relevant Roles
-
-`Data Analyst` • `Business Analyst` • `BI Analyst` • `Product Analyst` • `Analytics Engineer`
-
 ---
 
 <div align="center">
 
-# 👨‍💻 Aditya Sharma
+# Aditya Sharma
 
 ### Aspiring Data Analyst • Business Analyst • BI Developer
 
-**Python • SQL • Power BI • Streamlit • Pandas • Excel • SQLite**
-
-<br>
-
-### ⭐ Built to turn data into decisions.
-
-If you found **CommerceIQ** useful or interesting, consider giving the repository a ⭐
-
-<br>
-
-**Made with 🐍 Python + 🗄️ SQL + 📊 Power BI + ☕**
 
 </div>
